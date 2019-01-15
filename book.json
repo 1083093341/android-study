@@ -1,0 +1,10 @@
+{
+    "title": "Android",
+    "author": "Buddy",
+    "description": "select * from learn",
+    "language": "zh-hans",
+    "plugins": [
+        "expandable-chapters"
+    ]
+     
+}
